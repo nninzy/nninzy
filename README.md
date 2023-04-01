@@ -94,11 +94,13 @@
          src="http://img.shields.io/badge/-Tech%20Blog-000000?style=flat&logo=tistory&link=https://developer-nninzy.tistory.com"
          style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   </a>
+<!--
   <a href="https://min-z.notion.site/cce273910bef4ed0a8ea204e6f83da1e">
      <img 
          src="http://img.shields.io/badge/notion-000000?style=flat&logo=notion&link=https://min-z.notion.site/cce273910bef4ed0a8ea204e6f83da1e"
          style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   </a>
+-->
  
 </div>
 
