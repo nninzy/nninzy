@@ -22,7 +22,7 @@
   }
   ```
 
-   </td>
+<!--    </td>
    <td>
      <p>안녕하세요, 신입 프론트엔드 개발자 김민지 입니다.</p>
      <p>2022년 10월부터 개발자가 되기 위한 공부를 하고 있으며<br/> 현재는 <code>멀티캠퍼스 KDT 풀스택 개발자(파이썬) 2기</code>과정 중에 있습니다</p>
@@ -30,7 +30,7 @@
    </td>
   </tr>
  </table>
-</div>
+</div> -->
 
 <div class="body-2" align="center">
  <h2> 🛠 Tech Stack 🛠 </h2>
@@ -65,7 +65,7 @@
    </tr>
  </table>
 </div>
-
+<!-- 
 <div class="body-3" align="center">
  <h2> 📚 Study Log 📚 </h2>
  <table>
@@ -94,13 +94,13 @@
          src="http://img.shields.io/badge/-Tech%20Blog-000000?style=flat&logo=tistory&link=https://developer-nninzy.tistory.com"
          style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   </a>
-<!--
+
   <a href="https://min-z.notion.site/cce273910bef4ed0a8ea204e6f83da1e">
      <img 
          src="http://img.shields.io/badge/notion-000000?style=flat&logo=notion&link=https://min-z.notion.site/cce273910bef4ed0a8ea204e6f83da1e"
          style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   </a>
--->
+ -->
  
 </div>
 
