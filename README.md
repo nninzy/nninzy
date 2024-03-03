@@ -1,3 +1,4 @@
+<!--
 <div class="header" align="center">
  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=timeAuto&height=150&section=header&text=Hi,%20I'm%20nninzy&&desc=👋Welcome%20My%20Github👋&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=50&descAlignY=80" alt="header"/>
 </div>
@@ -30,7 +31,7 @@
    </td>
   </tr>
  </table>
-</div> -->
+</div>
 
 <div class="body-2" align="center">
  <h2> 🛠 Tech Stack 🛠 </h2>
@@ -100,11 +101,10 @@
          src="http://img.shields.io/badge/notion-000000?style=flat&logo=notion&link=https://min-z.notion.site/cce273910bef4ed0a8ea204e6f83da1e"
          style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   </a>
- -->
  
 </div>
 
-<!--
+
 **nninzy/nninzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
